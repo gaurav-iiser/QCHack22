@@ -1,2 +1,2 @@
 # QCHack22
-QC Hack 2022 repo.
+Repo for QC Hack 2022.
